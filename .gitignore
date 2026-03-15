@@ -1,0 +1,13 @@
+# --- n8n Specifics ---
+# DO NOT remove this. It keeps your database and encryption keys off GitHub.
+n8n_data/
+
+# --- Secrets ---
+# Keeps your Gmail OAuth and API keys private
+.env
+
+# --- OS & IDE Files ---
+.DS_Store
+Thumbs.db
+.vscode/
+node_modules/
