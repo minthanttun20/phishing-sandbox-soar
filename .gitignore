@@ -1,5 +1,4 @@
 # --- n8n Specifics ---
-# DO NOT remove this. It keeps your database and encryption keys off GitHub.
 n8n_data/
 
 # --- Secrets ---
