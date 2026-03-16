@@ -1,5 +1,7 @@
 # phishing-sandbox-soar
 
+![workflow](./img/workflow.png)
+
 ## Phase 1: The Local Lab (Docker Setup)
 
 We’ll use docker-compose to ensure data is **persistent** and **credentials** stay private.  
