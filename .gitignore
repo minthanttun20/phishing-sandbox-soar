@@ -4,9 +4,12 @@ n8n_data/
 # --- Secrets ---
 # Keeps your Gmail OAuth and API keys private
 .env
+*.key
+*.pem
 
 # --- OS & IDE Files ---
 .DS_Store
 Thumbs.db
 .vscode/
 node_modules/
+.idea/
